@@ -36,9 +36,8 @@
 Human Resources Agency - Sistema de recursos Humanos</a></h3>
       <h3><a href="https://github.com/IgorBarreto/Seletive">Seletive - Gerenciamento de vagas de emprego</a></h3>
       <h3><a href="https://github.com/IgorBarreto/Todo-list-django">todo list - Lista de tarefas</a></h3>
-      <h3><a href="https://github.com/IgorBarreto?tab=repositories">More...</a></h3>
+      <!-- <h3><a href="https://github.com/IgorBarreto?tab=repositories">Mais...</a></h3>-->
   </div>
 </div>
-  
-
-![Snake animation](https://github.com/IgorBarreto/IgorBarreto/blob/output/github-contribution-grid-snake.svg)
+  <!-- SNAKE --> 
+<!-- ![Snake animation](https://github.com/IgorBarreto/IgorBarreto/blob/output/github-contribution-grid-snake.svg) -->
