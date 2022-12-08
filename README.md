@@ -5,7 +5,7 @@
 <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Melhores Tecnologias</h1>
       <!-- Python -->
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://user-images.githubusercontent.com/22065573/201505945-b5c34ab1-ec90-4ab3-9ec0-5d84c6651138.svg">
       <!-- Django -->
