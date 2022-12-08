@@ -39,5 +39,3 @@ Human Resources Agency - Sistema de recursos Humanos</a></h3>
       <!-- <h3><a href="https://github.com/IgorBarreto?tab=repositories">Mais...</a></h3>-->
   </div>
 </div>
-  <!-- SNAKE --> 
-<!-- ![Snake animation](https://github.com/IgorBarreto/IgorBarreto/blob/output/github-contribution-grid-snake.svg) -->
